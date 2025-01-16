@@ -1,3 +1,3 @@
 # My-Info
-Name: Haitao Chen \n
+Name: Haitao Chen \\
 Email: 202321063398@mail.scut.edu.cn
